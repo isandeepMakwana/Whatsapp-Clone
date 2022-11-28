@@ -1,4 +1,4 @@
-# Online Hosted this React App done
+# Whatsapp Clone
 This project never stored your personal data like password and Email like that 
 To use and check the app we build 
 ### `Go ->`
